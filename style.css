@@ -1,0 +1,43 @@
+*{
+    padding:0px;
+    margin:0px;
+ 
+}
+
+p{
+    color:rgb(210, 199, 199);
+}
+
+h2{
+    color:white;
+}
+
+.container{
+    width:900px;
+    height:200px;
+    background-color:grey;
+    margin:20px auto;
+    display:flex;
+   align-items:center;
+   padding:30px;
+   
+}
+
+img{
+    width:150px;
+    cursor:pointer;
+    
+}
+
+.text{
+    margin-left:20px;
+    margin-bottom:20px;
+    cursor:pointer;
+    
+}
+
+h2{
+    margin:0px 0px 10px 0px;
+    cursor:pointer;
+}
+
